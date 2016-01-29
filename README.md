@@ -5,6 +5,7 @@ In this workshop we'll use the Clojure Koans exercises to start learning the bas
 ## Getting Started
 
 Download the Koans project archive and unpack the zip file:
+
     $ wget https://github.com/functional-koans/clojure-koans/releases/download/0.5.0/clojure-koans-2014-10-09_08-31.zip
     $ mkdir clojure-koans
     $ cd clojure-koans/
