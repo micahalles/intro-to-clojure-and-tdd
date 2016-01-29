@@ -19,7 +19,7 @@ When the auto-runner finds an incomplete koan, it will print it and the file + l
 
 The second command, `./script/repl` will launch an interactive console in which you can try out snippets of clojure. Try typing `(+ 1 1)` in the repl terminal and press enter.
 
-For more info on the koans visit https://github.com/functional-koans/clojure-koans and read the README. Feel free to skip over any talk about the lein command and Leiningen if you were able to successfully get the koans running from the unpacked zip file.
+For more info on the koans visit https://github.com/functional-koans/clojure-koans. Feel free to skip over any talk about the lein command and Leiningen if you were able to successfully get the koans running from the unpacked zip file.
 
 Each koan is executed like an individual unit test would be when using a TDD approach to software development. Each is attempting to prove a single principle of the Clojure runtime and once you add the missing element to make it pass the runner, and you, can move on to the next koan.
 
